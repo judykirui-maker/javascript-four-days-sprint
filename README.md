@@ -18,9 +18,10 @@ This repository contains my work and learning progress throughout a four-day Jav
 - GitHub
 
 ## How to Run
-Open the project folder in Visual Studio Code.
-Run JavaScript files using Node.js in the terminal.
-Open index.html in a browser to view the web application.
+Day 1:** Open `day1/index.html` in a browser.
+Day 2:** Run `node day2/day2.js` in the terminal.
+Day 3:** Open `day3/index.html` in a browser.
+Day 4:** Open `day4/index.html` in a browser.
 
 ## Manual Testing
 I tested my JavaScript code by running the assignments and checking the outputs.
